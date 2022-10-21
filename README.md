@@ -18,4 +18,4 @@ This is a file is my own projects which I use to practice skills in JavaScript r
 
 ## Objects.js
 
-This is a personla practice of using objects in JS. Here I created a collegeStudents object which is used to keep track of the students at a college. Each student has 3 properties: name, age, and degree. There is also prints all the students to the console.
+This is a personla practice of using objects in JS. Here I created a collegeStudents object which is used to keep track of the students at a college. Each student has 3 properties: name, age, and degree. There is also prints all the students to the console with their name, age and degree.
