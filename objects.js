@@ -29,4 +29,4 @@ for (let student in collegeStudents.students) {
 }
 
 // Lists students object
-// console.log(collegeStudents.students)
+console.log(collegeStudents.students);
