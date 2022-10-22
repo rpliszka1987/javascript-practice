@@ -4,6 +4,8 @@
 
 - [Description](#description)
 - [Technologies](#technologies)
+- [Instructions](#instructions)
+- [Practice](#practice)
 - [JS Objects](#objects.js)
 
 ## Description
@@ -15,6 +17,16 @@ This is a file is my own projects which I use to practice skills in JavaScript r
 ## Technologies
 
 - JavaScript
+
+## Instructions
+
+Run the following command to run code in terminal
+
+```
+    $ node <filename>
+```
+
+## Practice
 
 ## Objects.js
 
