@@ -8,6 +8,7 @@
 - [Practice](#practice)
 - [JS Objects](#objects.js)
 - [JS Functions](#functions.js)
+- [JS Array](#arrays.js)
 
 ## Description
 
@@ -36,3 +37,7 @@ This is a personal practice of using objects in JS. Here I created a collegeStud
 ## Functions.js
 
 This is a personal practice of creating functions using JS. Here I created multiple functions which are as simple as loggin Hello followed by a name, to function which perform conditinal statements.
+
+## Arrays.js
+
+This is a personal practice of using array in JS. Here I created a names array which holds a list of names. Then I called different functions on the names array.
